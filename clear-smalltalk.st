@@ -1,0 +1,1 @@
+FileStream stdout nextPutAll: '\033[2J\033[H'; FileStream stdout flush.
