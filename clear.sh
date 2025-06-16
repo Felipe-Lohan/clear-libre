@@ -6,8 +6,8 @@
 
 #Echo:
 
-./clear-echo.sh
+# ./clear-echo.sh
 
 #Printf:
 
-./clear-printf.sh
+# ./clear-printf.sh
