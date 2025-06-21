@@ -1,0 +1,3 @@
+define(`CLEAR_SCREEN', `\033[2J\033[H')
+
+CLEAR_SCREEN
